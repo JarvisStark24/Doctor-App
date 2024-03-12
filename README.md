@@ -14,10 +14,15 @@ Notifications: Receive timely reminders and notifications for upcoming appointme
 Profile Management:
 
 Doctors: Update and manage personal information and professional details.
+
 Admin: Manage user and doctor profiles, including approval of access requests.
+
 Search Functionality: Easily search for doctors based on specialization, location, or other criteria, enhancing the user experience.
 
-Installation
+
+
+=======Installation======
+
 Follow these steps to set up the Doctor Appointment App:
 
 1. Clone the repository to your local machine:
@@ -36,7 +41,8 @@ cd doctor-appointment-app
 
    The app will be accessible at http://localhost:3000 by default.
 
-   Usage
+========Usage========
+
 User Registration:
 
 Create a new account by providing required information.
@@ -86,13 +92,13 @@ Monitor and manage user and doctor profiles.
 
 
 
-Contributing
+Contributing:
 We welcome contributions to enhance the Doctor Appointment App. Please follow the contribution guidelines for details.
 
-License
+License:
 This project is licensed under the MIT License.
 
-Contact
-For any inquiries or support, feel free to contact us at your-email@example.com.
+Contact:
+For any inquiries or support, feel free to contact us at codewithjarvis.24@gmail.com
 
 Happy scheduling!
